@@ -21,7 +21,7 @@ clock = pygame.time.Clock()
 
 AppleThickness = 10
 block_size = 10
-FPS = 20
+FPS = 30
 
 direction = ""
 
